@@ -1,0 +1,25 @@
+.body {
+	-webkit-border-radius: 8px;
+	-webkit-box-shadow: rgba(0,0,0,.3) 1px 1px 3px;
+	padding: 10px 10px 10px 10px;
+	margin:10px;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#4c4d4e), to(#404142));
+	word-wrap:break-word;
+}
+
+.body a {
+	color: white;
+}
+
+.body p {
+	margin-bottom: 10px;	
+}
+.float-left{
+	float: left;
+}
+.float-right{
+	float: right;
+}
+.clear{
+	clear: both;
+}
